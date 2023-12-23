@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @donaldmarcellus
-- 👀 I’m interested in Front-End Development 
-- 🌱 I’m currently learning HTML, CSS, JS, and React
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Godot & GDScript and everything to do with 2D Pixel Game development 
 - 💞️ I’m looking to collaborate on any community based projects
 - 📫 How to reach me ... @donny956 on Twitter
 
